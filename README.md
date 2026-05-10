@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋 I'm Musaib Khan
 
-<!--
-**musaibkhan/musaibkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Senior DevOps Engineer
 
-Here are some ideas to get you started:
+Based in Berlin, Germany 🇩🇪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ☁️ AWS | Kubernetes | EKS | Terraform | GitOps
+- 🚀 CI/CD Automation Specialist
+- 🐳 Docker | Helm | ArgoCD | Karpenter
+- 🔐 DevSecOps & Infrastructure Automation
+- 🎬 Also building animation + storytelling projects
+
+---
+
+## 🛠 Skills
+
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=musaibkhan&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musaibkhan&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=musaibkhan&theme=tokyonight)
+
+---
+
+## 🌐 Connect with me
+
+- LinkedIn: YOUR_LINKEDIN
+- YouTube: https://youtube.com/@piqxipietv
