@@ -37,5 +37,4 @@ Based in Berlin, Germany 🇩🇪
 
 ## 🌐 Connect with me
 
-- LinkedIn: YOUR_LINKEDIN
-- YouTube: https://youtube.com/@piqxipietv
+- LinkedIn: https://www.linkedin.com/in/musaib-khan/
