@@ -11,11 +11,11 @@
 
 ### 👨‍💻 About me
 
-I'm a Senior DevOps Engineer who runs production Kubernetes at scale, and lately I spend most of my building time at the intersection of **infrastructure and AI/ML** — using LLMs and ML to make platform tooling smarter, safer, and more autonomous.
+I'm a Senior DevOps Engineer who runs production Kubernetes at scale, and lately I spend most of my building time at the intersection of **infrastructure and AI/ML** using LLMs and ML to make platform tooling smarter, safer, and more autonomous.
 
-- 🔭 **Currently building** AI-assisted DevOps tools — applying LLMs to upgrade analysis, change-risk prediction, and incident triage.
+- 🔭 **Currently building** AI-assisted DevOps tools, applying LLMs to upgrade analysis, change-risk prediction, and incident triage.
 - 🌱 **Focusing on** AIOps, ML for anomaly detection, RAG pipelines, and putting models into real CI/CD and Kubernetes workflows.
-- ⚙️ **Day to day** — AWS, EKS, Terraform, Helm, ArgoCD, GitOps, and DevSecOps automation.
+- ⚙️ **Day to day**  AWS, EKS, Terraform, Helm, ArgoCD, GitOps, and DevSecOps automation.
 - 🎬 Outside of tech, I build animation + storytelling projects.
 
 ---
